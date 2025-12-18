@@ -1,0 +1,51 @@
+{
+  "jokes": [
+    { "setup": "Teacher: Homework kyun nahi kiya?", "punchline": "Student: Sir, light nahi thi… dimag ki 😄" },
+    { "setup": "GF: Tum mujhe miss karte ho?", "punchline": "BF: Haan, isliye balance zero ho gaya 📱😂" },
+    { "setup": "Doctor: Aapko rest chahiye", "punchline": "Patient: Theek hai doctor, Netflix chala deta hoon 😎" },
+    { "setup": "Papa: Result kaisa aaya?", "punchline": "Beta: Google jaisa… thoda slow 😅" },
+    { "setup": "Friend: Tera future plan kya hai?", "punchline": "Me: Pehle charger dhundhna 🔌😂" },
+
+    { "setup": "Mom: Mobile kam use karo", "punchline": "Me: Theek hai, charging pe laga deta hoon 😜" },
+    { "setup": "Boss: Tum late kyun aaye?", "punchline": "Me: Sir, sapne me office aa chuka tha 😴" },
+    { "setup": "GF: Mujhse ya phone se zyada pyaar?", "punchline": "BF: Dono se… ek charging pe, ek dil me 😍" },
+    { "setup": "Teacher: Silence!", "punchline": "Class: Online hai kya sir? 😆" },
+    { "setup": "Friend: Gym kyun join kiya?", "punchline": "Me: Lift me thak jaata hoon 🏋️😂" },
+
+    { "setup": "Mom: Padhai karo", "punchline": "Me: Kar raha hoon… reels ki 😜" },
+    { "setup": "GF: Tum badal gaye ho", "punchline": "BF: Haan, software update hua hai 😎" },
+    { "setup": "Teacher: Question samajh aaya?", "punchline": "Student: Question haan, answer nahi 😅" },
+    { "setup": "Doctor: Walk pe jaate ho?", "punchline": "Me: Haan, fridge tak 🚶‍♂️😂" },
+    { "setup": "Friend: Single kyun ho?", "punchline": "Me: Network issue 😌" },
+
+    { "setup": "Papa: Phone rakh do", "punchline": "Me: Bas last reel… har baar wali 😆" },
+    { "setup": "GF: Tumhara phone mujhse zyada important hai", "punchline": "BF: Nahi baby, uska battery zyada weak hai 😜" },
+    { "setup": "Teacher: Tumhara answer galat hai", "punchline": "Student: Sir feeling sahi thi 🥲" },
+    { "setup": "Friend: Kal kya plan hai?", "punchline": "Me: Plan cancel karna 😎" },
+    { "setup": "Mom: Time pe so jao", "punchline": "Me: Haan, bas phone charge ho jaaye 😴" },
+
+    { "setup": "Boss: Deadline yaad hai?", "punchline": "Me: Haan sir, bhoolne ki 😅" },
+    { "setup": "GF: Surprise chahiye", "punchline": "BF: Internet band kar deta hoon 😆" },
+    { "setup": "Teacher: Phone kyun laaye?", "punchline": "Student: Sir notes ke liye… games ke bhi 😜" },
+    { "setup": "Friend: Paisa hai?", "punchline": "Me: Haan… sapno me 💸😂" },
+    { "setup": "Mom: Khana thanda ho raha hai", "punchline": "Me: Reel khatam hote hi 😅" },
+
+    { "setup": "Doctor: Stress kam lo", "punchline": "Me: Isliye toh overthinking karta hoon 😎" },
+    { "setup": "GF: Tum sunte hi nahi", "punchline": "BF: Sun raha hoon… loading hai 😆" },
+    { "setup": "Teacher: Focus karo", "punchline": "Student: Battery low hai sir 🔋😂" },
+    { "setup": "Friend: Gym ka result?", "punchline": "Me: Trainer khush hai 😅" },
+    { "setup": "Mom: Subah jaldi utho", "punchline": "Me: Night mode band karte hi 😴" },
+
+    { "setup": "Boss: Performance improve karo", "punchline": "Me: WiFi change karna padega 😜" },
+    { "setup": "GF: Tum perfect nahi ho", "punchline": "BF: Isliye toh real hoon 😎" },
+    { "setup": "Teacher: Repeat karo", "punchline": "Student: Question ya zindagi? 😅" },
+    { "setup": "Friend: Crush ka kya scene hai?", "punchline": "Me: Seen pe chhod diya 😆" },
+    { "setup": "Mom: Bahar ka mat khao", "punchline": "Me: Online order kar leta hoon 😜" },
+
+    { "setup": "Doctor: Exercise daily karo", "punchline": "Me: Phone uthane me count hota hai? 😂" },
+    { "setup": "GF: Tum mujhe samajhte nahi", "punchline": "BF: Manual nahi mila 😅" },
+    { "setup": "Teacher: Answer likho", "punchline": "Student: Battery saver mode hai sir 😆" },
+    { "setup": "Friend: Life kaisi chal rahi?", "punchline": "Me: Buffering… 😌" },
+    { "setup": "Mom: Itna hans kyun rahe ho?", "punchline": "Me: Joke generator use kar raha hoon 😂" }
+  ]
+}
