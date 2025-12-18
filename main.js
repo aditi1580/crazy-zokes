@@ -6,13 +6,14 @@ function getJoke() {
     fetch("jokes.json")
         .then(res => res.json())
         .then(data => {
-            const index = Math.floor(Math.random() * data.jokes.length);
-            setupEl.innerText = data.jokes[index].setup;
-            punchlineEl.innerText = data.jokes[index].punchline;
+            const i = Math.floor(Math.random() * data.jokes.length);
+
+            setupEl.innerText = data.jokes[i].setup;
+            punchlineEl.innerText = data.jokes[i].punchline;
 
             
             btn.classList.remove("clicked");
-            void btn.offsetWidth; 
+            void btn.offsetWidth;
             btn.classList.add("clicked");
         });
 }
